@@ -11,9 +11,11 @@ Sometimes it's helpful to keep track of your web URL.  Consider putting that som
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi, this is Akihiko Jo in MISM 16, and please call me AJ, because my full name is sometimes difficult to pronounce. I'm from Japan, and I have been working for financial institutions for 15 years mainly as a project manager. I anticipate to obtain the skills from this course to efficiently show the data to the executives in my company.
+Hi, this is Akihiko Jo in MISM 16, and please call me AJ, because my full name is sometimes difficult to pronounce. I'm from Japan, and I have been working
+for financial institutions for 15 years mainly as a project manager. I anticipate to obtain the skills from this course
+to efficiently show the data to the executives in my company.
 I am a father of 3 years old daughter, and my hobby now is to bring my daughter to the national parks in the United States.
-
+![Self-Portrait](portrait.jpg)
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
