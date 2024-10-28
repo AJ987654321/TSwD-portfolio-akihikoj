@@ -17,17 +17,19 @@ to efficiently show the data to the executives in my company.
 I am a father of 3 years old daughter, and my hobby now is to bring my daughter to the national parks in the United States.
 ![Self-Portrait](portrait.jpg)
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+In our past career, it was always practical, and no educational backgroud about technologies. Therefore, we weould like to learn the points below for my future career: 
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+1. Technical Background
+   I aim to develop IT skills, including coding, which I have not studied systematically before. My goal is to acquire the skills
+   necessary to make informed decisions when I eventually move into a management role.
+2. Strategical Skills
+   I want to learn how to use technology in alignment with a company’s vision, enabling me to make decisions that reflect this vision.
+   I’m interested in understanding how to incorporate the vision into daily activities and make sound strategic decisions
+   in a volatile market environment.
+3. Soft Skills
+   I want to develop knowledge in negotiation and conflict resolution,
+   essential for implementing the decisions I make. This will equip me with the capability to execute my decisions effectively.
+   
 
 # Portfolio
 
