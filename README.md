@@ -10,7 +10,7 @@ Sometimes it's helpful to keep track of your web URL.  Consider putting that som
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
  1. OECD Debt
-    ![Debt Graph](export-2024-10-30T21_35_56.674Z.png)
+    ![Debt Graph]()
  2. 
 
 # About me
