@@ -50,6 +50,8 @@ To show the transitioning of average of th debt ratio to GDP per region.
 5. Filtered out 2019 data because that lacks Japan's data since it was the main driver of Asian average ratio.
    If I use all the data in the dataset, Asian unhealthiness looks to improve, but it is because that Japanese data is lacked. 
    Therefore, I have filtered out the data of 2019 to avoid misinterpretation.
+6. Set the minimum as 30
+   I have cut of the areas below 30 because the minimum value over time was 30. This emphasize the differences among regions.
 
 Those changes could explain that the Asia was the unhelthiest region over time.
 
