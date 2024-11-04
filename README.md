@@ -33,10 +33,10 @@ style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau
  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
  vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
-The description below is how we aim to explain and how we made changes on the chart.
-[Objectives]
-To show the transitioning of average of th debt ratio to GDP per region.
-[Points]
+The description below is how we aim to explain and how we made changes on the chart.<br>
+[Objectives]<br>
+To show the transitioning of average of th debt ratio to GDP per region.<br>
+[Points]<br>
 1. Categorized the region based on the countries. (Americas, Asia, Europe, Middle East)
    The original dataset has too many number of countries, and it might be difficult for readers to interpret the trend of the transitioning over time.
    Therefore, I have categorized the countries into 4 categories.
