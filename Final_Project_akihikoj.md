@@ -10,7 +10,8 @@ Another thing is whether the importance of offense and deffense varies across th
 
 
 # Sketches
-
+The rough sketch of the data visualization is as follows.
+[Initial Sketch.png]
 
 # Data
 
