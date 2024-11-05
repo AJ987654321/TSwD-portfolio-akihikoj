@@ -14,8 +14,9 @@ The rough sketch of the data visualization is as follws.<br>
 ![Rough Image](InitialSketch.png)
 
 # Data
-[MLB Dataset](https://www.openintro.org/data/csv/mlb_teams.csv)
-[NPB Dataset]
+[MLB Dataset](https://www.openintro.org/data/csv/mlb_teams.csv)<br>
+[NPB Dataset](https://proeyekyuu.com/)<br>
+[Mexican League](milb.com/mexican/stats/team)<br>
 
 # Methodology
 
