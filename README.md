@@ -78,6 +78,9 @@ In our past career, it was always practical, and no educational backgroud about 
 
 # Portfolio
 
+# Final Project
+Here is a link to [Final Project](Final_Project_akihikoj.md)
+
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
