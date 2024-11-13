@@ -25,8 +25,10 @@ In creating this data, I addressed the points below.
 The revised sketch was as follows.<br>
 ![Sketch](RevisedChart.png)
 <br>We got the feedback as follows.
-1. I should add the information hovering over the point to show the quantitative information about each manufacturer.
-2. I should add the reference line to show the healthiness of recalls.
+1. To clearly indicate good or bad in coloring.(It was difficult to do)
+2. To integrate the companies into regions. (Our intention is to indicate the each company's trend, so I didn't do it.)
+2. To add the information hovering over the point to show the quantitative information about each manufacturer.
+3. To add the reference line to show the healthiness of recalls.
 
 ## Revised Chart
 <div class='tableauPlaceholder' id='viz1731527060106' style='position: relative'><noscript><a href='#'><img alt='Which Region is the Safest to Buy a Car? ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;CarRecalls_17315270468600&#47;WhichRegionistheSafesttoBuyaCar&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CarRecalls_17315270468600&#47;WhichRegionistheSafesttoBuyaCar' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;CarRecalls_17315270468600&#47;WhichRegionistheSafesttoBuyaCar&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
