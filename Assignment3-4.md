@@ -22,9 +22,9 @@ In creating this data, I addressed the points below.
 3. For Major brands, I have added the column of region to USA, Asia, and Europe.
 
 ## Sketch
-The revised sketch was as follows.
-[Sketch]{RevisedChart.png}
-We got the feedback as follows.
+The revised sketch was as follows.<br>
+![Sketch]{RevisedChart.png}
+<br>We got the feedback as follows.
 1. I should add the information hovering over the point to show the quantitative information about each manufacturer.
 2. I should add the reference line to show the healthiness of recalls.
 
