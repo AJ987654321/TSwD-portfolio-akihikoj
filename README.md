@@ -55,6 +55,9 @@ To show the transitioning of average of th debt ratio to GDP per region.<br>
 
 Those changes could explain that the Asia was the unhelthiest region over time.
 
+# Assignment 3 & 4
+[The Assignment 3 & 4](Assignment3-4.md)
+
 # About me
 Hi, this is Akihiko Jo in MISM 16, and please call me AJ, because my full name is sometimes difficult to pronounce. I'm from Japan, and I have been working
 for financial institutions for 15 years mainly as a project manager. I anticipate to obtain the skills from this course
