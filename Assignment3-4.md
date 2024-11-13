@@ -2,8 +2,7 @@
 
 ## Original Data
 <iframe allow="geolocation" src="https://datahub.transportation.gov/dataset/NHTSA-Recalls-by-Manufacturer/mu99-t4jn/embed?width=800&height=600" width="800" height="600" style="border:0; padding: 0; margin: 0;"></iframe>
-[Original Data](https://datahub.transportation.gov/Automobiles/NHTSA-Recalls-by-Manufacturer/mu99-t4jn)
-This original chart represents the number of calls per manufacturers. However, there are some issues in this chart.
+<br>This original chart represents the number of calls per manufacturers. However, there are some issues in this chart.
 1. Coloring rule is not clear, and too much colors are used.
 2. There is only information about the number of recalls. No ifnroamtion about the number of vehicles affected by recalls.
 3. This chart doesn't tell the story but just the raw data.
@@ -32,17 +31,17 @@ In creating this data, I addressed the points below.
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
-In order to better visualize the data, I have revised as follows.
-1. To change the title to clearly show the story. The revised title is 'Which region is the safest to buy a car?'
-2. Filter the information as follows.
-    -Car Production Information is filled 
-    -# of recalls is greater than 10.
-3. To change the chart type to scatter plot to represent 3 factors: Car Production, Number of Affected Vehicles by recalls, Number of Recalls.
-    -Car Production in 1st half of 2024: X-Axis
-    -Number of Vehicles affected by Recalls: Y-Axis
-    -Number of Recalls: Size of Bubble
-4. To define the region as Asia, Europe and USA and categorized the manufacturers into the regions.
-5. To define coloring rules per regions.
+<br>In order to better visualize the data, I have revised as follows.<br>
+1. To change the title to clearly show the story. The revised title is 'Which region is the safest to buy a car?'<br>
+2. Filter the information as follows.<br>
+    -Car Production Information is filled <br>
+    -# of recalls is greater than 10.<br>
+3. To change the chart type to scatter plot to represent 3 factors: Car Production, Number of Affected Vehicles by recalls, Number of Recalls.<br>
+    -Car Production in 1st half of 2024: X-Axis<br>
+    -Number of Vehicles affected by Recalls: Y-Axis<br>
+    -Number of Recalls: Size of Bubble<br>
+4. To define the region as Asia, Europe and USA and categorized the manufacturers into the regions.<br>
+5. To define coloring rules per regions.<br>
 
-What I would like to do but I couldn't was as follows.
-1. To add the reference line with Y=2X which represents that the doubled number of car production in 1st half of 2024 equals the number of vehicles affected by the recalls, but I couldn't figure out the way to draw this line.
+What I would like to do but I couldn't was as follows.<br>
+1. To add the reference line with Y=2X which represents that the doubled number of car production in 1st half of 2024 equals the number of vehicles affected by the recalls, but I couldn't figure out the way to draw this line.<br>
