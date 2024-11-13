@@ -34,14 +34,14 @@ In creating this data, I addressed the points below.
 <br>In order to better visualize the data, I have revised as follows.<br>
   1. To change the title to clearly show the story. The revised title is 'Which region is the safest to buy a car?'<br>
   2. Filter the information as follows.<br>
-    -Car Production Information is filled <br>
-    -# of recalls is greater than 10.<br>
+      -Car Production Information is filled <br>
+      -# of recalls is greater than 10.<br>
   3. To change the chart type to scatter plot to represent 3 factors: Car Production, Number of Affected Vehicles by recalls, Number of Recalls.<br>
-    -Car Production in 1st half of 2024: X-Axis<br>
-    -Number of Vehicles affected by Recalls: Y-Axis<br>
-    -Number of Recalls: Size of Bubble<br>
+      -Car Production in 1st half of 2024: X-Axis<br>
+      -Number of Vehicles affected by Recalls: Y-Axis<br>
+      -Number of Recalls: Size of Bubble<br>
   4. To define the region as Asia, Europe and USA and categorized the manufacturers into the regions.<br>
   5. To define coloring rules per regions.<br>
-
+<br>
 What I would like to do but I couldn't was as follows.<br>
   1. To add the reference line with Y=2X which represents that the doubled number of car production in 1st half of 2024 equals the number of vehicles affected by the recalls, but I couldn't figure out the way to draw this line.<br>
