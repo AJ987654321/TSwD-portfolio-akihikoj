@@ -25,32 +25,48 @@ In creating this data, I addressed the points below.
 The revised sketch was as follows.<br>
 ![Sketch](RevisedChart.png)
 <br>We got the feedback as follows.
-1. To clearly indicate good or bad in coloring.(It was difficult to do)
-2. To integrate the companies into regions. (Our intention is to indicate the each company's trend, so I didn't do it.)
-2. To add the information hovering over the point to show the quantitative information about each manufacturer.
-3. To add the reference line to show the healthiness of recalls.
+1. To integrate the companies into regions. -> I created 2 charts representing Manugacturers and Regions.
+1. To clearly indicate good or bad in coloring.->I tried to distinguish the area by color, but it didn't go well. Instead of doing that, I added the annotation for manufacturers, and trend line to regions.
+2. To add the information hovering over the point to show the quantitative information about each manufacturer.-> I added.
+3. To add the reference line to show the healthiness of recalls. -> I tried this, but I couldn't. Instead of doing that, I added the annotation for manufacturers, and trend line to regions.
 
 ## Revised Chart
-<div class='tableauPlaceholder' id='viz1731527060106' style='position: relative'><noscript><a href='#'><img alt='Which Region is the Safest to Buy a Car? ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;CarRecalls_17315270468600&#47;WhichRegionistheSafesttoBuyaCar&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CarRecalls_17315270468600&#47;WhichRegionistheSafesttoBuyaCar' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;CarRecalls_17315270468600&#47;WhichRegionistheSafesttoBuyaCar&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
+# Chart 1
+<div class='tableauPlaceholder' id='viz1731545604193' style='position: relative'><noscript><a href='#'><img alt='Which Company is the Safest to Buy a Car? ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;CarRecalls_17315270468600&#47;WhichCompanyistheSafesttoBuyaCar&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CarRecalls_17315270468600&#47;WhichCompanyistheSafesttoBuyaCar' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;CarRecalls_17315270468600&#47;WhichCompanyistheSafesttoBuyaCar&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 <script type='text/javascript'>
-  var divElement = document.getElementById('viz1731527060106');
+  var divElement = document.getElementById('viz1731545604193');
   var vizElement = divElement.getElementsByTagName('object')[0];
   vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
   var scriptElement = document.createElement('script');
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+# Chart 2
+<div class='tableauPlaceholder' id='viz1731546387005' style='position: relative'><noscript><a href='#'><img alt='Which Region&#39;s Manufacturer is the Safest to Buy a Car? ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;CarRecalls2&#47;WhichRegionsManufactureristheSafesttoBuyaCar&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CarRecalls2&#47;WhichRegionsManufactureristheSafesttoBuyaCar' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;CarRecalls2&#47;WhichRegionsManufactureristheSafesttoBuyaCar&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz1731546387005');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
 <br>In order to better visualize the data, I have revised as follows.<br>
-  1. To change the title to clearly show the story. The revised title is 'Which region is the safest to buy a car?'<br>
-  2. Filter the information as follows.<br>
+  1.Created 2 charts, one for manufacturers and another for regions.<br>
+  2. To change the title to clearly show the story. <br>
+  3. Filtered the information as follows.<br>
       -Car Production Information is filled <br>
       -# of recalls is greater than 10.<br>
-  3. To change the chart type to scatter plot to represent 3 factors: Car Production, Number of Affected Vehicles by recalls, Number of Recalls.<br>
+  4. Changed the chart type to scatter plot to represent 3 factors: Car Production, Number of Affected Vehicles by recalls, Number of Recalls.<br>
       -Car Production in 1st half of 2024: X-Axis<br>
       -Number of Vehicles affected by Recalls: Y-Axis<br>
       -Number of Recalls: Size of Bubble<br>
-  4. To define the region as Asia, Europe and USA and categorized the manufacturers into the regions.<br>
-  5. To define coloring rules per regions.<br>
+  5. Defined the region as Asia, Europe and USA and categorized the manufacturers into the regions.<br>
+  6. Defined coloring rules per regions.<br>
+  7. Added the annotation to indicate the safer area in manufacturer chart.<br>
+  8. Added the trend line to indicate the safer area in regions chart.<br>
 <br>
 What I would like to do but I couldn't was as follows.<br>
-  1. To add the reference line with Y=2X which represents that the doubled number of car production in 1st half of 2024 equals the number of vehicles affected by the recalls, but I couldn't figure out the way to draw this line.<br>
+  1. To add the reference line with Y=2X which represents that the doubled number of car production in 1st half of 2024 equals the number of vehicles affected by the recalls, but I couldn't figure out the way to draw this line. Instead of doing that, I did 7. and 8. above.<br>
