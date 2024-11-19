@@ -18,26 +18,25 @@ By analyzing these datasets, I aim to determine whether offensive or defensive t
 # Sketches
 1. Professional League in the World
    Mapping of Professional League over the world.
-   
+   ![Rough Image of World's Map](World's map.png)
 2. Picked League Profile
-
-The rough sketch of the main data visualization is as follws.<br>
-![Rough Image](InitialSketch.png)
-
+   Pick the first league from North America, Central America and Asia for 3 leagues to be picked up from the professional leagues
+3. Heatmap of Leagues
+   The rough sketch of the main data visualization is as follws.<br>
+   ![Rough Image](InitialSketch.png)
+4. Comparison of Leagues
+   Utilizing the heatmaps above, per the scores per a game (Offensiveness), the correlation between the weight changes of offence and deffense and the Offensiveness to figure out which is more important.
 # Data
-
 Here are the dataset utilized for this data visualization.
 [Professional League Geography]<br>
 [World's Professional Baseball Leagues](https://www.insidethegames.biz/articles/1040900/the-worlds-professional-leagues)<br>
-
-
 [Team Stats]
 [MLB Dataset](https://www.openintro.org/data/csv/mlb_teams.csv)<br>
 [NPB Dataset](https://proeyekyuu.com/)<br>
 [Mexican League](milb.com/mexican/stats/team)<br>
 
 # Methodology
-
+I will utilize Tableau to visualize the data.
 
 
 Back to [Main Portfolio](README.md)
