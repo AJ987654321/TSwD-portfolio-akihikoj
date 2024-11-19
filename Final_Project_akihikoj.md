@@ -18,7 +18,7 @@ By analyzing these datasets, I aim to determine whether offensive or defensive t
 # Sketches
 1. Professional League in the World
    Mapping of Professional League over the world.<br>
-   ![Rough Image of World's Map](World's map.png)
+   ![Rough Image of World's Map](World_map.png)
 2. Picked League Profile
    Pick the first league from North America, Central America and Asia for 3 leagues to be picked up from the professional leagues
 3. Heatmap of Leagues
