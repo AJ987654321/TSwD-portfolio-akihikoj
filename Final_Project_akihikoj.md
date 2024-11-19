@@ -1,4 +1,6 @@
 ## Final Project
+### Which Baseball Team is Stronger: Offensive or Deffensive?
+
 
 Here are the deliverables of AJ's Final Project
 
