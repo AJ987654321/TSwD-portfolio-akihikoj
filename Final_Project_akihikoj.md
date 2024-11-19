@@ -27,13 +27,14 @@ By analyzing these datasets, I aim to determine whether offensive or defensive t
    2. League Nationality
    3. League Established Year and  Date
    4. Number of Teams in the League
+   5. NUmber of Baseball Players in the Nation
    
 4. Heatmap of Leagues
    The rough sketch of the main data visualization is as follws.<br>
-   The Offense Score and Deffense Score 
+   The Offense Score and Deffense Score is calculated based on how far the stats of the team is from the average.
    ![Rough Image](InitialSketch.png)<br>
 5. Comparison of Leagues
-   Utilizing the heatmaps above, per the scores per a game (Offensiveness), the correlation between the weight changes of offence and deffense and the Offensiveness to figure out which is more important.
+   Utilizing the heatmaps above, per the scores per a game (Offensiveness), the correlation between the weight changes of offence and deffense and the Offensiveness to figure out which is more important. Animated transitionnfrom low offensiveness to high offensiveness could show how the offensiveness of the league correlated the trend of the strength of each team based on the offensive score and deffensive score.
 # Data
 Here are the dataset utilized for this data visualization.
 [Professional League Geography]<br>
