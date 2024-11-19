@@ -30,7 +30,7 @@ By analyzing these datasets, I aim to determine whether offensive or defensive t
 Here are the dataset utilized for this data visualization.
 [Professional League Geography]<br>
 [World's Professional Baseball Leagues](https://www.insidethegames.biz/articles/1040900/the-worlds-professional-leagues)<br>
-[Team Stats]
+[Team Stats]<br>
 [MLB Dataset](https://www.openintro.org/data/csv/mlb_teams.csv)<br>
 [NPB Dataset](https://proeyekyuu.com/)<br>
 [Mexican League](milb.com/mexican/stats/team)<br>
