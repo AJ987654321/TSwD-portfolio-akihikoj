@@ -18,6 +18,7 @@ By analyzing these datasets, I aim to determine whether offensive or defensive t
 
 
 # Sketches
+0. Terminology Explanation (Why those matters)
 1. Professional League in the World<br>
    Mapping of Professional League over the world.<br>
    I will color them and change the size of pole according to the number of teams and population of baseball players.
