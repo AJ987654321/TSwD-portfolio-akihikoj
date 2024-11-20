@@ -45,7 +45,7 @@ Here are the dataset utilized for this data visualization.
 [Team Stats]<br>
 [MLB Dataset](https://www.openintro.org/data/csv/mlb_teams.csv)<br>
 [NPB Dataset](https://proeyekyuu.com/)<br>
-[Mexican League](milb.com/mexican/stats/team)<br>
+[Mexican League](https://www.milb.com/mexican/stats/team/)<br>
 
 # Methodology
 I will utilize Tableau to visualize the data.
