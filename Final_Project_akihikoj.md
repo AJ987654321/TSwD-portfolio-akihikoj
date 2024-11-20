@@ -18,12 +18,13 @@ By analyzing these datasets, I aim to determine whether offensive or defensive t
 
 
 # Sketches
-0. Terminology Explanation (Why those matters)
-1. Professional League in the World<br>
+0. Terminology Explanation 
+   As not all the readers are familiar to  the baseball technical terms, I will add the explanation of the tecnical terms at the beginning of the page.
+2. Professional League in the World<br>
    Mapping of Professional League over the world.<br>
    I will color them and change the size of pole according to the number of teams and population of baseball players.
    ![Rough Image of World's Map](World_map.png)
-2. Picked League Profile<br>
+3. Picked League Profile<br>
    Pick the first league from North America, Central America and Asia for 3 leagues to be picked up from the professional leagues.<br>
    Those will be presented with the national flags of the countries.
    1. League Name
@@ -49,6 +50,7 @@ Here are the dataset utilized for this data visualization.
 
 # Methodology
 I will utilize Tableau to visualize the data.
+Markdown is utilized for the creating of pages.
 
 
 Back to [Main Portfolio](README.md)
