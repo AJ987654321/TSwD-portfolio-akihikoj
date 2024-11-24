@@ -41,6 +41,7 @@ In our past career, it was always practical, and no educational backgroud about 
 
 # Final Project
 Here is a link to [Final Project](Final_Project_akihikoj.md)
+[Final Project_Shorthand](Final_akihikoj_1.1)
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
