@@ -1,9 +1,9 @@
 ### Final Project Part 2
 
 ## Wireframe
-https://preview.shorthand.com/85s7Aany1XBrZRAy
+![Shorthand](https://preview.shorthand.com/85s7Aany1XBrZRAy)
 
 ## User Feedback
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQTXXdw50JZfEarBeBwCoYdsna4npQp-rCncfBf6kAjQ9q5XW7EU1XAYWvMRmlmUHbDepmvUOnmEfqr/pubhtml?widget=true&amp;headers=false"></iframe>
+![User Survey Sheet](https://docs.google.com/spreadsheets/d/1gIhAS8baioCKnUe7VfPoy3H53U98FhEFep2bLIj5MW0/edit?usp=sharing)
 
 ## Moodboard and Personas
