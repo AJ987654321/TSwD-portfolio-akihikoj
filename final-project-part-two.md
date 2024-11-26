@@ -58,15 +58,13 @@ Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Show the answer more clearly in the conclusion section | I will change the section's layout for the conclusion so that every audience can cleary understand the conclusion. |
+|Add the followings for audience's better understanding.<br> 1.The batting order of the team.<br>2.The composition of the team's offensive power (which players should be traded)|I will add them into further steps.|
+| In the leagues selection, the coloring is hard to understand because of the com bination of the colors |I will change the colors to enhance the visibility.|
+|Transition of photos in 'Know the baseball' section harms the eye tracking because of its lack of fluency.|I will chnage the way of transition of photos not to harm eye tracking.|
+|Technical term explanation requies the examples to understand quick|I will create imaginary player's card which represents the stats.|
+|Graphs of the results should be displayed the same width of screen|I will make them bigger for more visibility|
+|Brief comments on each country's result is nice to have|I will add them.|
+|Hypothesis section includes not only hypothesis but the models explanation|In practicing, this doesn't flow smoothly. I will reorganize this.|
 
-> ...include any final thoughts you have here. 
-
-Text here!
-
-Text here!
 
