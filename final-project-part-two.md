@@ -64,5 +64,7 @@ This presentation will give them an idea how to enhance the win ratio of the tea
 |Graphs scale should be the same across the graphs.|I will standardize the scale of the graphs.|
 |Brief comments on each country's result is nice to have|I will add them.|
 |Hypothesis section includes not only hypothesis but the models explanation|In practicing, this doesn't flow smoothly. I will reorganize this.|
+|To use navy background for chapter 4.|I willchange the background color for more visibility.|
+|Conclusion section needs to be more highlighted utilizing separator|I will reorganize the section of conclusion and completely separate the further steps.|
 
 
