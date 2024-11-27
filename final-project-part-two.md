@@ -61,6 +61,7 @@ This presentation will give them an idea how to enhance the win ratio of the tea
 |Transition of photos in 'Know the baseball' section harms the eye tracking because of its lack of fluency.|I will chnage the way of transition of photos not to harm eye tracking.|
 |Technical term explanation requies the examples to understand quick|I will create imaginary player's card which represents the stats.|
 |Graphs of the results should be displayed the same width of screen|I will make them bigger for more visibility|
+|Graphs scale should be the same across the graphs.|I will standardize the scale of the graphs.|
 |Brief comments on each country's result is nice to have|I will add them.|
 |Hypothesis section includes not only hypothesis but the models explanation|In practicing, this doesn't flow smoothly. I will reorganize this.|
 
