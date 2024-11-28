@@ -66,5 +66,6 @@ This presentation will give them an idea how to enhance the win ratio of the tea
 |Hypothesis section includes not only hypothesis but the models explanation|In practicing, this doesn't flow smoothly. I will reorganize this.|
 |To use navy background for chapter 4.|I willchange the background color for more visibility.|
 |Conclusion section needs to be more highlighted utilizing separator|I will reorganize the section of conclusion and completely separate the further steps.|
+|Chapter should be more conscious|I will seek a way to highlight the title of chapter more.|
 
 
