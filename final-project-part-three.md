@@ -12,12 +12,20 @@ Feedback also pointed out that the steps for data organization and hypothesis te
 
 # Changes made since Part II
 What I have changed from Part 2 are mainly categorized into 2 parts: Refinement of Storyline and Enhancement of Visibility.
-
+| Research synthesis                       |Category | Anticipated changes for Part III                                                |
+|------------------------------------------|----------------|---------------------------------------------------------------------------------|
+| Show the answer more clearly in the conclusion section |Enhancement of Visibility|I have highlighted the conclusion.|
+|Add the followings for audience's better understanding.<br> 1.The batting order of the team.<br>2.The composition of the team's offensive power (which players should be traded)|Refinement of Storyline.|As further steps, I have added the section to dig into the details of how team can be more offensive.|
+| In the leagues selection, the coloring is hard to understand because of the com bination of the colors |Enhancement of Visibility|I have changed the color to white for better visibility.|
+|Transition of photos in 'Know the baseball' section harms the eye tracking because of its lack of fluency.|Enhancement of Visibility|Delete the photos to prevent any noise of eye-catching.|
+|Technical term explanation requies the examples to understand quick|Enhancement of Visibility|I have created the imaginary player and team's stats in order to show an example.|
+|Graphs of the results should be displayed the same width of screen|Enhancement of Visibility|I have changed the size of graph of Combined|
+|Graphs scale should be the same across the graphs.|Enhancement of Visibility|I have standardized the size of chart acrsoss the leagues.|
+|Brief comments on each country's result is nice to have|Refinement of Storyline|I have added the comments on each league for readers to understand the features of the leagues.|
+|Hypothesis section includes not only hypothesis but the models explanation|Refinement of Storyline|I have restructured the storyline. Data Research, Data Interpretation, Setting up Hypothesis are the new sections to follow the storyline.|
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
-
-Text here!
+The baseball teams owners are the assumed audience.
 
 ## Final design decisions
 > You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
