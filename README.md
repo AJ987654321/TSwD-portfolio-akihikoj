@@ -1,7 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](Final_Project_akihikoj.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three) |
 
 # Portfolio
-Thank you for visiting!
+Thank you for visiting!<br>
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 
@@ -35,12 +35,12 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 
 
 # Final Project
-Here is a link to each phase of Final Project
-Phase 1: [Final Project Part 1](Final_Project_akihikoj.md)
-Phase 2: [Final Project Part 2](final-project-part-two.md)
-Phase 3: [Final Project Part 3](final-project-part-three.md)
+Here is a link to each phase of Final Project<br>
+Phase 1: [Final Project Part 1](Final_Project_akihikoj.md)<br>
+Phase 2: [Final Project Part 2](final-project-part-two.md)<br>
+Phase 3: [Final Project Part 3](final-project-part-three.md)<br>
 
-The link below guides you to the webpage I created by Shorthand.
+The link below guides you to the webpage I created by Shorthand.<br>
 [Final Project_Shorthand](https://preview.shorthand.com/85s7Aany1XBrZRAy)
 
 
