@@ -1,3 +1,6 @@
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](Final_Project_akihikoj.md) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+
+
 ## Final Project
 ### Which Baseball Team is Stronger: Offensive or Deffensive?
 
